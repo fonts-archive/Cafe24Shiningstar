@@ -15,7 +15,7 @@ font-family: 'Cafe24 Shiningstar';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Shiningstar/Cafe24Shiningstar.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Shiningstar/Cafe24Shiningstar.css" type="text/css"/>
 ```
 
 &nbsp;
